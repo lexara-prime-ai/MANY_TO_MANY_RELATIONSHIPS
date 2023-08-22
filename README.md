@@ -1,5 +1,5 @@
 # Entity Framework Core: Many-to-Many Relationships - In-Depth Documentation
-
+(Not the kind you're thinking about)
 ## Table of Contents
 
 1.  Introduction
